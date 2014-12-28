@@ -1,0 +1,12 @@
+{
+  "name": "flux-pipes-tcp",
+  "version": "1.0.0",
+  "description": "TCP actions for flux-pipes",
+  "author": "Justin Pradier <chromecide@chromecide.com>",
+  "keywords": [
+    "chromecide",
+    "flux-pipes",
+    "TCP"
+  ],
+  "dependencies": {}
+}
